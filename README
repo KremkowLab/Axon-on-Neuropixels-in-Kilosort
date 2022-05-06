@@ -1,0 +1,4 @@
+This Matlab function should be placed in the kilosort main folder (KS-master/mainLoop) in replacement of the previous existing "make_fig.m".
+Our tiny change in this function will organized the plotting of the waveforms according to the values of their rebound.
+We illustrate this organization in the first subplot of KS ("Temporal Components") from left (with the biggest rebount) to right (with the smallest) of the different waveforms.
+Second in the top right plot (not named) we illustrate only the 10 first waveforms exhibitng the biggest rebound i.e. the ten first lefter waveforms plotted in the "Temporal Components" supbplot.
