@@ -7,4 +7,4 @@ Our modified version of this script will organize the plotting of the waveforms 
 - In the second plot at the top right (unnamed), only the 10 first waveforms having the largest post-synaptic values (red arrow) are illustrated; they correspond to the first 10 waveforms on the lefter side of the `Temporal Components` subplot.
 ![alt text](https://github.com/KremkowLab/Axon-on-Neuropixels-in-Kilosort/blob/main/KS%20adapted.png)
 
-A test recording is available under the following link: https://zenodo.org/record/6850116#.YtQNq4RBzQM
+A test recording is available in: https://zenodo.org/record/6850116#.YtQNq4RBzQM
