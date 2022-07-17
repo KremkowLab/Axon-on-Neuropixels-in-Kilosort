@@ -1,4 +1,4 @@
-function make_fig_old_js(W, U, mu, nsp)
+function make_fig(W, U, mu, nsp)
 
 tmp = W(45,:,1);
 [B,ind]=sort(tmp);
